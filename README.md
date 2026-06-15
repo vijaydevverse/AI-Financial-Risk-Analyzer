@@ -87,7 +87,7 @@ AI-Financial-Risk-Analyzer/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Financial-Risk-Analyzer.git
+git clone https:https://github.com/vijaydevverse/AI-Financial-Risk-Analyzer
 ````
 
 ### 2️⃣ Move into project folder
