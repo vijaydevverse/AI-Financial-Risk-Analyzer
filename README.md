@@ -179,5 +179,3 @@ If you found this project useful:
 ## 📌 License
 
 This project is for educational and portfolio purposes.
-
-```
